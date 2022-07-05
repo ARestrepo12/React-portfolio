@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.7d2c8282.css",
+    "main.js": "/react-portfolio/static/js/main.41bd0bfe.js",
+    "static/js/787.137aa76a.chunk.js": "/react-portfolio/static/js/787.137aa76a.chunk.js",
+    "static/media/pick-a-flic.JPG": "/react-portfolio/static/media/pick-a-flic.5d937751c8c263be758c.JPG",
+    "static/media/best-furrends.JPG": "/react-portfolio/static/media/best-furrends.08afd6172ab47b23bbf8.JPG",
+    "static/media/weather-dashboard1.JPG": "/react-portfolio/static/media/weather-dashboard1.324e644f1e8387bc1945.JPG",
+    "static/media/email-icon.jpg": "/react-portfolio/static/media/email-icon.d1ebe632c8ba9e276951.jpg",
+    "static/media/github-icon.jpg": "/react-portfolio/static/media/github-icon.e9556e9c8ce1f64dda60.jpg",
+    "static/media/password-generator.JPG": "/react-portfolio/static/media/password-generator.9b4f31471b4bee0c2c29.JPG",
+    "static/media/linkedin-icon.jpg": "/react-portfolio/static/media/linkedin-icon.890b3d5010af921be987.jpg",
+    "index.html": "/react-portfolio/index.html",
+    "main.7d2c8282.css.map": "/react-portfolio/static/css/main.7d2c8282.css.map",
+    "main.41bd0bfe.js.map": "/react-portfolio/static/js/main.41bd0bfe.js.map",
+    "787.137aa76a.chunk.js.map": "/react-portfolio/static/js/787.137aa76a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d2c8282.css",
+    "static/js/main.41bd0bfe.js"
+  ]
+}
