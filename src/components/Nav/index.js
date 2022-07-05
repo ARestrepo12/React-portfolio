@@ -8,19 +8,19 @@ function Nav() {
             <h1>Alex Restrepo</h1>
             <ul>
                 <li>
-                    <link to="/" className={({ isActive }) => (isActive ? "tab-active" : "tab")}>Home</link>
+                    <Link to="/" className={({ isActive }) => (isActive ? "tab-active" : "tab")}>Home</Link>
                 </li>
                 <li>
-                    <link to="/about" className={({ isActive }) => (isActive ? "tab-active" : "tab")}>About Me</link>
+                    <Link to="/about" className={({ isActive }) => (isActive ? "tab-active" : "tab")}>About Me</Link>
                 </li>
                 <li>
-                    <link to="/portfolio" className={({ isActive }) => (isActive ? "tab-active" : "tab")}>Portfolio</link>
+                    <Link to="/portfolio" className={({ isActive }) => (isActive ? "tab-active" : "tab")}>Portfolio</Link>
                 </li>
                 <li>
-                    <link to="/contact" className={({ isActive }) => (isActive ? "tab-active" : "tab")}>Contact</link>
+                    <Link to="/contact" className={({ isActive }) => (isActive ? "tab-active" : "tab")}>Contact</Link>
                 </li>
                 <li>
-                    <link to="/resume" className={({ isActive }) => (isActive ? "tab-active" : "tab")}>Resume</link>
+                    <Link to="/resume" className={({ isActive }) => (isActive ? "tab-active" : "tab")}>Resume</Link>
                 </li>
             </ul>
         </nav>
