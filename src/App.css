@@ -1,5 +1,18 @@
 body {
-  background-color: blue;
+  background-color: rgb(91, 141, 192);
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgb(45, 165, 235);
+}
+
+nav h1 {
+  padding-left: 8px;
+  margin-left: 8px;
+  background-color: steelblue;
 }
 
 nav ul {
@@ -7,8 +20,9 @@ nav ul {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  align-items: center;
   list-style: none;
+  background-color: teal;
+  margin-right: 10px;
 }
 
 nav ul li:hover {
@@ -20,14 +34,50 @@ nav ul li:hover {
 
 .heroDiv {
   display: flex;
-  padding: 30px, 60px;
-  text-align: center;
+  padding: 30px;
+  align-items: center;
+}
+
+.heroText h1 {
+  background-color: tomato;
+  color: white;
+  padding: 8px;
 }
 
 .heroText {
-  padding: auto;
-  text-align: right;
-  margin-right: 8px;
-  width: 60%;
+  padding-right: 30px;
+  text-align: left;
+  margin-right: 80px;
+  width: 50%;
 }
 
+.App {
+  text-align: center;
+  color: white;
+}
+
+.App-header {
+  background-color: rgb(60, 111, 153);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* phone compatability */
+@media screen and (max-width: 768px){
+.heroDiv {
+  display: inline-block;
+  margin: 0;
+  align-items: center;
+}
+
+.heroText {
+  text-align: center;
+  align-items: center;
+}
+
+nav {
+  display: inline-block;
+  width: 100%;
+}
+}

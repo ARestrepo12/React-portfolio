@@ -4,6 +4,7 @@ function Nav() {
 
     return (
         <nav>
+            <h1>Alex Restrepo</h1>
             <ul>
                 <li>About Me</li>
                 <li>Portfolio</li>
