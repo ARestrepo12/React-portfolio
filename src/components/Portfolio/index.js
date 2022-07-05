@@ -44,13 +44,13 @@ function Portfolio() {
 
             <div className='portfolio'>
                 <div className='portfolio-mock'>
-                    <a href='https://karlyweatherstein.github.io/best-furrends/'>
-                        <img alt='best-furrends' src={BestFurrends}></img>
+                    <a href='https://jtal3.github.io/Pick-a-Flic/'>
+                        <img alt='pick-a-flic' src={PickAFlic}></img>
                     </a>
                 </div>
                 <div className='icon'>
-                    <h2>Best Furrends</h2>
-                    <a href='https://github.com/Karlyweatherstein/best-furrends'>
+                    <h2>Pick-A-Flic</h2>
+                    <a href='https://github.com/jtal3/Pick-A-Flic'>
                         <img src={Github} alt='Github'></img>
                     </a>
                     <p>Tools: HTML, CSS, Javascript</p>
@@ -59,13 +59,13 @@ function Portfolio() {
 
             <div className='portfolio'>
                 <div className='portfolio-mock'>
-                    <a href='https://karlyweatherstein.github.io/best-furrends/'>
-                        <img alt='best-furrends' src={BestFurrends}></img>
+                    <a href='https://arestrepo12.github.io/weather-dashboard/'>
+                        <img alt='weather-dashboard' src={WeatherDashboard}></img>
                     </a>
                 </div>
                 <div className='icon'>
-                    <h2>Best Furrends</h2>
-                    <a href='https://github.com/Karlyweatherstein/best-furrends'>
+                    <h2>Weather Dashboard</h2>
+                    <a href='https://github.com/arestrepo12/weather-dashboard'>
                         <img src={Github} alt='Github'></img>
                     </a>
                     <p>Tools: HTML, CSS, Javascript</p>
@@ -77,3 +77,5 @@ function Portfolio() {
 }
 
 export default Portfolio;
+
+
