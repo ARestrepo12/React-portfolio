@@ -19,7 +19,7 @@ function Footer() {
                     </a>
                 </li>
                 <li>
-                    <a>
+                    <a href='https://www.linkedin.com/in/alejandro-restrepo-b6a1b4196/'>
                         <img src={Linkedin} alt='Linkedin'></img>
                     </a>
                 </li>
