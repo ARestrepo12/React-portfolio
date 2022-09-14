@@ -24,7 +24,7 @@ nav ul {
 }
 
 nav ul li:hover {
-  background: lightblue;
+  background: rgb(201, 168, 109);
   color: black;
   border-radius: 15px;
   padding: 4px;
@@ -34,25 +34,29 @@ nav ul li a,
 nav ul li span {
   padding: 8px;
   text-decoration: none;
-
+  color: black;
+  font-weight: 200;
 }
 
 .heroDiv {
   display: flex;
   padding: 30px;
   align-items: center;
+  flex-direction: column;
+}
+
+.heroDiv img {
+  width: 400px;
+  height: 400px;
 }
 
 .heroText h1 {
-  background-color: rgb(69, 45, 77);
+  background-color: rgb(201, 168, 109);
   color: white;
-  padding: 8px;
 }
 
 .heroText {
-  padding-right: 30px;
-  text-align: left;
-  margin-right: 80px;
+  text-align: center;
   width: 50%;
 }
 
@@ -70,6 +74,7 @@ nav ul li span {
   text-align: left;
   width: 50%;
   padding: 15px;
+  font-size: 22px;
 }
 
 footer {
@@ -123,6 +128,11 @@ footer ul li a img {
   width: 80%;
 }
 
+.resume img{
+  width: 40%;
+  padding-bottom: 100px;
+}
+
 .icon h2 {
   width: fit-content;
   color: black;
@@ -142,9 +152,24 @@ footer ul li a img {
   text-align: center;
   width: 90%;
   margin: 14px;
-  padding: 6px;
+  padding: 60px;
 }
 
+.contactMe {
+  text-align: center;
+}
+
+.contactMe h1 {
+  font-size: 60px;
+  margin: 40px;
+}
+
+.contactMe p {
+  display: flex;
+  font-size: 20px;
+  width: 50%;
+  margin: auto auto 150px auto;
+}
 
 /* phone compatability */
 @media screen and (max-width: 768px){

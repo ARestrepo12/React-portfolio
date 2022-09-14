@@ -11,8 +11,8 @@ import Contact from "./components/Contact";
 
 function App() {
   return (
+  <div className="App">
     <Router>
-    <div className="App">
       <Nav />
       <Routes>
         <Route path= "/" element={<Hero />} />
@@ -22,8 +22,8 @@ function App() {
         <Route path= "/contact" element={<Contact />} />   
       </Routes>
       <Footer />
-    </div>
     </Router>
+    </div>
   );
 }
 

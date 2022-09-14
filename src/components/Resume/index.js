@@ -1,11 +1,12 @@
 import React from "react";
+import ResumeJPG from "../../assets/Alejandro-Restrepo-Resume.JPG";
 
 
 function Resume() {
 
     return (
-        <div>
-
+        <div className='resume'>
+        <img alt='resume' src={ResumeJPG}></img>
         </div>
     )
 }
