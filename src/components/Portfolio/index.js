@@ -24,6 +24,7 @@ function Portfolio() {
                 </div>
                 <div className='icon'>
                     <h2>Best Furrends</h2>
+                    <h4>This application using JavaScript allows users enter a zipcode and find adoptable dogs within a 50 mile radius. When you click search you will be met with pictures of the dogs along with their names, breed, age, and distance away. You can also learn fun dog facts at the click of a button, and have an option to donate money to help homeless pets. This project utilized two different server-side API's for the pet search and fun facts.</h4>
                     <a href='https://github.com/Karlyweatherstein/best-furrends'>
                         <img src={Github} alt='Github'></img>
                     </a>
@@ -39,6 +40,7 @@ function Portfolio() {
                 </div>
                 <div className='icon'>
                     <h2>Pick-A-Flic</h2>
+                    <h4>A movie searching application to help you choose your next movie to watch. While most streaming services have a feature to search movies by genre, they do not allow you to search movies that fit multiple genre's. Our application will search all movies that fit the specific genres you are looking for in a movie. It also can search for movies by title and can add to a favorites page at the click of a button when logged in. This project utilized the "TMDB" server-side API.</h4>
                     <a href='https://github.com/jtal3/Pick-A-Flic'>
                         <img src={Github} alt='Github'></img>
                     </a>
@@ -54,10 +56,11 @@ function Portfolio() {
                 </div>
                 <div className='icon'>
                     <h2>Lets Grow</h2>
+                    <h4>An e-commerce React application that creates a space that allows users to find tutors/trainers in specific subjects and work with them personally or their materials. After choosing from a variety of categories, you are met with tutors or trainers in that field who you can click on to see their shop which displays the goods and services they sell. If you wanted to purchase anything our seamless stripe integration makes it easy to checkout from your cart.</h4>
                     <a href='https://github.com/Karlyweatherstein/lets-grow'>
                         <img src={Github} alt='Github'></img>
                     </a>
-                    <p>Tools: React, MongoDB, Javascript</p>
+                    <p>Tools: React, MongoDB, Javascript, Bootstrap</p>
                 </div>
             </div>
             
@@ -69,6 +72,7 @@ function Portfolio() {
                 </div>
                 <div className='icon'>
                     <h2>Weather Dashboard</h2>
+                    <h4> A simple weather forecasting application. You enter a city you would like to see the 5 day forecast for and the application will return the temperature, wind, and humidity of those days. </h4>
                     <a href='https://github.com/arestrepo12/weather-dashboard'>
                         <img src={Github} alt='Github'></img>
                     </a>
@@ -84,6 +88,7 @@ function Portfolio() {
                 </div>
                 <div className='icon'>
                     <h2>Password Generator</h2>
+                    <h4>An easy to use password generator that generates a random password based on the length, use of uppercase and/or lowercase letters, numbers, and special characters that you choose when prompted.</h4>
                     <a href='https://github.com/ARestrepo12/password-generator'>
                         <img src={Github} alt='Github'></img>
                     </a>
@@ -97,6 +102,7 @@ function Portfolio() {
                     </div>
                 <div className='icon'>
                     <h2>README Generator</h2>
+                    <h4>A command line application that utilizes Node.js to create a README for you based on your answers to a few questions about your project.</h4>
                     <a href='https://github.com/ARestrepo12/Professional-README-Generator'>
                         <img src={Github} alt='Github'></img>
                     </a>
@@ -112,6 +118,7 @@ function Portfolio() {
                 </div>
                 <div className='icon'>
                     <h2>Work Day Scheduler</h2>
+                    <h4>A useful work day scheduler that helps you plan out your tasks for the day. After you save a task you are also free to leave the site and your tasks will be locally stored for the next time you open it.</h4>
                     <a href='https://github.com/ARestrepo12/work-day-scheduler'>
                         <img src={Github} alt='Github'></img>
                     </a>
@@ -127,6 +134,7 @@ function Portfolio() {
                 </div>
                 <div className='icon'>
                     <h2>Run Buddy</h2>
+                    <h4> A mockup of a business' website that would help you find trainers to help you reach your fitness goals</h4>
                     <a href='https://github.com/ARestrepo12/run-buddy'>
                         <img src={Github} alt='Github'></img>
                     </a>
@@ -140,6 +148,7 @@ function Portfolio() {
                     </div>
                 <div className='icon'>
                     <h2>Team Profile Generator</h2>
+                    <h4>A command line application that utilizes Node.js to create an HTML page with cards of individuals on a team. You answer some questions about who is in your team and it will do the rest. </h4>
                     <a href='https://github.com/ARestrepo12/Professional-README-Generator'>
                         <img src={Github} alt='Github'></img>
                     </a>
@@ -155,6 +164,7 @@ function Portfolio() {
                 </div>
                 <div className='icon'>
                     <h2>Soccer Quiz</h2>
+                    <h4>A fun Premier League soccer quiz that may have some bias in the questions.</h4>
                     <a href='https://github.com/ARestrepo12/coding-quiz'>
                         <img src={Github} alt='Github'></img>
                     </a>
