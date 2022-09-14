@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-portfolio/static/css/main.afddb8b0.css",
-    "main.js": "/React-portfolio/static/js/main.746a9b6a.js",
+    "main.css": "/React-portfolio/static/css/main.1e7d780e.css",
+    "main.js": "/React-portfolio/static/js/main.f105d869.js",
     "static/js/787.137aa76a.chunk.js": "/React-portfolio/static/js/787.137aa76a.chunk.js",
     "static/media/email-icon.png": "/React-portfolio/static/media/email-icon.595ac81edef691eb53ea.png",
     "static/media/github-icon.png": "/React-portfolio/static/media/github-icon.e36e95be96c11cb04f2e.png",
@@ -17,12 +17,12 @@
     "static/media/profile-pic.JPG": "/React-portfolio/static/media/profile-pic.6ba28b4903911a7c3e8a.JPG",
     "static/media/password-generator.JPG": "/React-portfolio/static/media/password-generator.9b4f31471b4bee0c2c29.JPG",
     "index.html": "/React-portfolio/index.html",
-    "main.afddb8b0.css.map": "/React-portfolio/static/css/main.afddb8b0.css.map",
-    "main.746a9b6a.js.map": "/React-portfolio/static/js/main.746a9b6a.js.map",
+    "main.1e7d780e.css.map": "/React-portfolio/static/css/main.1e7d780e.css.map",
+    "main.f105d869.js.map": "/React-portfolio/static/js/main.f105d869.js.map",
     "787.137aa76a.chunk.js.map": "/React-portfolio/static/js/787.137aa76a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.afddb8b0.css",
-    "static/js/main.746a9b6a.js"
+    "static/css/main.1e7d780e.css",
+    "static/js/main.f105d869.js"
   ]
 }
