@@ -145,11 +145,6 @@ footer ul li a img {
   padding: 6px;
 }
 
-#youtube {
-  width: 900px;
-  height: 900px;
-}
-
 
 /* phone compatability */
 @media screen and (max-width: 768px){

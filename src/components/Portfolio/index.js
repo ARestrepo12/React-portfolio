@@ -6,6 +6,7 @@ import WeatherDashboard from '../../assets/portfolio-mockups/weather-dashboard1.
 import Github from '../../assets/github-icon.png';
 import RunBuddy from '../../assets/portfolio-mockups/run-buddy.JPG';
 import WorkdayScheduler from '../../assets/portfolio-mockups/work-day-scheduler.JPG';
+import LetsGrow from '../../assets/portfolio-mockups/lets-grow.JPG';
 
 function Portfolio() {
 
@@ -105,12 +106,40 @@ function Portfolio() {
             </div>
 
             <div className='portfolio'>
-                <div className='portfolio-mock' id='youtube'>
-                    <iframe src="https://www.youtube.com/embed/yn5bDt3s81g"></iframe>
+                <div className='portfolio-mock'>
+                    <iframe src="https://www.youtube.com/embed/yn5bDt3s81g" width="725" height="400" title="Youtube video" allowFullScreen></iframe>
                     </div>
                 <div className='icon'>
                     <h2>README Generator</h2>
                     <a href='https://github.com/ARestrepo12/Professional-README-Generator'>
+                        <img src={Github} alt='Github'></img>
+                    </a>
+                    <p>Tools: HTML, CSS, Javascript</p>
+                </div>
+            </div>
+
+            <div className='portfolio'>
+                <div className='portfolio-mock'>
+                    <iframe src="https://www.youtube.com/embed/E77eCMtuJ00" width="725" height="400" title="Youtube video" allowFullScreen></iframe>
+                    </div>
+                <div className='icon'>
+                    <h2>Team Profile Generator</h2>
+                    <a href='https://github.com/ARestrepo12/Professional-README-Generator'>
+                        <img src={Github} alt='Github'></img>
+                    </a>
+                    <p>Tools: HTML, CSS, Javascript</p>
+                </div>
+            </div>
+
+            <div className='portfolio'>
+                <div className='portfolio-mock'>
+                    <a href='https://limitless-crag-16722.herokuapp.com/'>
+                        <img alt='lets-grow' src={LetsGrow}></img>
+                    </a>
+                </div>
+                <div className='icon'>
+                    <h2>Lets Grow</h2>
+                    <a href='https://github.com/Karlyweatherstein/lets-grow'>
                         <img src={Github} alt='Github'></img>
                     </a>
                     <p>Tools: HTML, CSS, Javascript</p>
