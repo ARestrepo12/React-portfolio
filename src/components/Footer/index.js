@@ -1,7 +1,7 @@
 import React from "react";
-import Github from '../../assets/github-icon.jpg';
-import Email from '../../assets/email-icon.jpg';
-import Linkedin from '../../assets/linkedin-icon.jpg';
+import Github from '../../assets/github-icon.png';
+import Email from '../../assets/email-icon.png';
+import Linkedin from '../../assets/linkedin-icon.png';
 
 function Footer() {
 
