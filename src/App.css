@@ -53,11 +53,13 @@ nav ul li span {
 .heroText h1 {
   background-color: rgb(201, 168, 109);
   color: white;
+  border-radius: 10px;
 }
 
 .heroText {
   text-align: center;
   width: 50%;
+  
 }
 
 .heroText h1 {
